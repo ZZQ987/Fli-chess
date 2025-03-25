@@ -8,6 +8,8 @@
 #include"basic_logic.h"
 #include"Draw.h"
 
-int a=123
 
-int b=1
+int b=1;
+
+int a=123;
+int b==2313;
