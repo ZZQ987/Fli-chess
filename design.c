@@ -9,6 +9,8 @@
 #include"basic_logic.h"
 #include"Draw.h"
 
+int a=123
+
 
 int x, y;//游戏界面横纵长度
 int player_num;//总玩家数
