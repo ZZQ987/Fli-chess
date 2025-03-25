@@ -9,7 +9,4 @@
 #include"Draw.h"
 
 
-int b=1;
-
-int a=123;
-int b==2313;
+int name=327;
