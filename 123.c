@@ -9,3 +9,5 @@
 #include"Draw.h"
 
 int a=123
+
+int b=1
